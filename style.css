@@ -1,0 +1,11 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+div {
+    padding: 5px;
+    margin-top: 2px;
+    align-items: center;
+    
+}
